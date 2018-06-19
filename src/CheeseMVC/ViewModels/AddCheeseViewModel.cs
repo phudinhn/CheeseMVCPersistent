@@ -23,8 +23,8 @@ namespace CheeseMVC.ViewModels
         public int CategoryID { get; set; }
 
         public List<SelectListItem> Categories { get; set; }
-
-        public AddCheeseViewModel ()
+       
+        public AddCheeseViewModel()
         {
 
         }
